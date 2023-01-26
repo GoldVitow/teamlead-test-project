@@ -374,7 +374,7 @@ button {
 
 .form-block__promotion {
    font-size: 30px;
-   margin-right: 30px;
+   flex-basis: 30%;
 }
 
 @media(max-width: 410px) {
